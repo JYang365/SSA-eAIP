@@ -71,13 +71,6 @@ More information available at [Wikipedia](https://en.wikipedia.org/wiki/Quatro_d
 
 - VFR flights are not allowed over and above the FL 150.
 
-<!--
-{%
-    include-markdown "general/common/cruise-levels.md"
-    heading-offset=2
-%}
--->
-
 ### Departure Procedures & Initial Climbs
 
 - FNLU does not have coded SID procedures, so, the runway heading rule will apply.
