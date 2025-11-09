@@ -5,9 +5,9 @@
 ## What is TrackAudio?
 TrackAudio is a next generation Audio-For-VATSIM ATC Client for macOS, Linux and Windows.
 
-After connecting to the network as an observer, you'll ask: How do I listen to ATC? Well you've come to the right guide. In VATSSA we use TrackAudio as our recommended audio client. An observer guide for Audio for VATSIM can be found [here](insertlink).
+After connecting to the network as an observer, you'll ask: How do I listen to ATC? Well you've come to the right guide. In VATSSA we use TrackAudio as our recommended audio client. An observer guide for Audio for VATSIM can be found [here](https://eaip2.vatssa.com/New-Controllers/Observing%20Guide/Audio%20for%20VATSIM%20-%20Observer/).
 
-Our resources page, where you can find the TrackAudio download link can be found [here](https://eaip2.vatssa.com/New-Controllers/Observing%20Guide/TrackAudio%20Guide%20-%20Controller/)
+Our resources page, where you can find the TrackAudio download link can be found [here](https://eaip2.vatssa.com/General/Resources/Links/)
 
 !!! info "Controller Guide"
 
