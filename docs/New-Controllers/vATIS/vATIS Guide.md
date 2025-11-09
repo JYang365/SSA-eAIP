@@ -33,7 +33,8 @@ Our resources page, where you can find the vATIS profiles for all of the South A
 
 - Open vATIS, press the 'Import' button then select the vATIS profile you have downloaded.
 - Once imported, double click on the profile to open it.
-![vATIS 1 - Importing a Profile](../img/vATIS-1.png){ align=left }
+![vATIS 1 - Importing a Profile](../img/vATIS-1.png)
+
 - Once in the profile, select on the airport you are controlling.
 - Open the presets dropdown, and select the optimal runway configuration.
 ![vATIS 5 - Selecting an Airport and Configuration](../img/vATIS-5.png)
