@@ -28,21 +28,23 @@
 
 ## Departure Procedures
 
+Please note that all SIDs are now suspended at King Shaka. All aircraft to receive Runway track with an initial climb of FL70.
+
 Runway 06
 
 | Fix | SID | Initial Climb | Remarks |
 | :---------: | :---------: | :---------: | :---------: |
-| GYV | GYV1A | FL70 | "GYV" said as Greytown. |
-| ITMIL | ITMIL1C | FL70 | - |
-| TUBIN | TUBIN1A | FL70 | - |
+| GYV | ~~GYV1A~~ | FL70 | "GYV" said as Greytown. |
+| ITMIL | ~~ITMIL1C~~ | FL70 | - |
+| TUBIN | ~~TUBIN1A~~ | FL70 | - |
 
 Runway 24
 
 | Fix | SID | Initial Climb | Remarks |
 | :---------: | :---------: | :---------: | :---------: |
-| GYV | GYV2B | FL70 | "GYV" said as Greytown. |
-| ITMIL | OKTAN1A | FL70 | - |
-| TUBIN | TUBIN1B | FL70 | - |
+| GYV | ~~GYV2B~~ | FL70 | "GYV" said as Greytown.~~|
+| ITMIL | ~~OKTAN1A~~ | FL70 | - |
+| TUBIN | ~~TUBIN1B~~ | FL70 | - |
 
 ## Phraseology
 
