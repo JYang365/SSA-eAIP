@@ -11,7 +11,7 @@
 | Destination / FIR Exit | Routing                                       | Restrictions          | Remarks |
 |-------------------------|-----------------------------------------------|-----------------------|---------|
 | FABL              | GAV (U)W95 BLV                                   | *                     |         |
-| FACT/FAYP       | XAGEN UZ31 XALVA UQ23 CSV UZ26 ERDAS               | * / Z31               | FL200 TO FL245 |
+| FACT/FAYP       | XAGEN UZ31 XALVA UQ23 CSV UZ26 ERDAS               | *                     | Z31 - FL200 TO FL245 |
 | FAEL              | JSV GEROX UQ7 AXOXI ELV                          | *                     |         |
 | FAGG              | JSV HGV UZ16 NEVEN UQ9 XALIN GRV                 | *                     |         |
 | FAKM            | XAGEN UZ31 IMSIR KYV                               | *                     |         |
@@ -26,34 +26,36 @@
 
 ## Departure Procedures
 
-Runway 08/26
+Runway 07/25
 
-| Fix | SID | Initial Climb | Remarks |
+Note that all departures are non standard.
+
+| Runway | Fix | Instructions | Remarks |
 | :---------: | :---------: | :---------: | :---------: |
-| 07  | -         | RUNWAY HEADING                      | -  | 8000 ft     | - |
+| 07  | -         | RUNWAY TRACK                        | -  | 8000 ft     | - |
 | 07  | XAGEN     | LEFT TURN XAGEN                     | -  | 8000 ft     | - |
 | 07  | RAGUL     | LEFT TURN RAGUL                     | -  | 8000 ft     | - |
 | 07  | UTRUK     | LEFT TURN UTRUK                     | -  | 8000 ft     | - |
-| 07  | GAV       | LEFT TURN TO GAV VOR                | -  | 8000 ft     | - |
+| 07  | GAV       | LEFT TURN GAV VOR                   | -  | 8000 ft     | - |
 | 07  | JSV       | LEFT TURN OVERHEAD FIELD TO JSV VOR | -  | 8000 ft     | - |
 | 07  | HGV       | LEFT TURN OVERHEAD FIELD TO HGV VOR | -  | 8000 ft     | - |
 | 07  | APDAK     | LEFT TURN OVERHEAD FIELD TO APDAK   | -  | 8000 ft     | - |
-| 07  | WKV       | RUNWAY HEADING                      | -  | 8000 ft     | - |
-| 07  | DPV       | RUNWAY HEADING                      | -  | 8000 ft     | - |
+| 07  | WKV       | RUNWAY TRACK                        | -  | 8000 ft     | - |
+| 07  | DPV       | RUNWAY TRACK                        | -  | 8000 ft     | - |
 | 07  | VASUR     | LEFT TURN VASUR                     | -  | 8000 ft     | - |
-| 07  | PNV       | LEFT TURN TO PNV VOR                | -  | 8000 ft     | - |
-| 25  | -         | RUNWAY HEADING                      | -  | 8000 ft     | - |
-| 25  | XAGEN     | RUNWAY HEADING                      | -  | 8000 ft     | - |
-| 25  | RAGUL     | RUNWAY HEADING                      | -  | 8000 ft     | - |
+| 07  | PNV       | LEFT TURN PNV VOR                   | -  | 8000 ft     | - |
+| 25  | -         | RUNWAY TRACK                        | -  | 8000 ft     | - |
+| 25  | XAGEN     | RUNWAY TRACK                        | -  | 8000 ft     | - |
+| 25  | RAGUL     | RUNWAY TRACK                        | -  | 8000 ft     | - |
 | 25  | UTRUK     | RIGHT TURN UTRUK                    | -  | 8000 ft     | - |
-| 25  | GAV       | RUNWAY HEADING                      | -  | 8000 ft     | - |
+| 25  | GAV       | RUNWAY TRACK                        | -  | 8000 ft     | - |
 | 25  | JSV       | RIGHT TURN OVERHEAD FIELD TO JSV VOR| -  | 8000 ft     | - |
 | 25  | HGV       | RIGHT TURN OVERHEAD FIELD TO HGV VOR| -  | 8000 ft     | - |
 | 25  | APDAK     | RIGHT TURN OVERHEAD FIELD TO APDAK  | -  | 8000 ft     | - |
 | 25  | WKV       | RIGHT TURN WKV VOR                  | -  | 8000 ft     | - |
 | 25  | DPV       | RIGHT TURN DPV VOR                  | -  | 8000 ft     | - |
 | 25  | VASUR     | RIGHT TURN VASUR                    | -  | 8000 ft     | - |
-| 25  | PNV       | RIGHT TURN TO PNV VOR               | -  | 8000 ft     | - |
+| 25  | PNV       | RIGHT TURN PNV VOR                  | -  | 8000 ft     | - |
 
 ## Phraseology
 
