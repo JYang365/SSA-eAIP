@@ -114,7 +114,7 @@ To help expedite the flow of traffic out of Johannesburg during busy operations,
     The SMC controller should not send any aircraft to holding point J (west) without the prior approval of the TWR controller.
 
 !!! info "Taxi Phraseology (CAT 2 Hold)"
-    "(callsign), taxi D, A, to the CAT 2 holding point runway 03L".
+    FAOR_GND: "(callsign), taxi D, A, to the CAT 2 holding point runway 03L."
 
 **The pilot is to read back the CAT 2 Holding Point, if they do not, you must pick up and make sure they do.**
 
